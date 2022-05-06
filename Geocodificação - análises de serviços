@@ -1,0 +1,10 @@
+ArcGIS - possui base de cep BR, mas desatualizada. Vide exemplo cep 22.790-880
+
+Google Maps - geocodificação e reversa - USD 5,00 a cada 1.000 requisições
+Consulta por cep, logradouro ou lat/long
+
+OpenStreetMap - gratuíto, porém não tem a base de códigos postais anexado, consulta
+somente por nome de rua
+
+TomTom - geocode e reverse por USD 0,50 a cada 1.000 riquisições.
+Analisar melhor
